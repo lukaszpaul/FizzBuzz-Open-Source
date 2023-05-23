@@ -1,4 +1,4 @@
-program ReadNumber;
+program FizzBuzz;
 
 procedure FizzBuzz(Limit: Integer);
 var
