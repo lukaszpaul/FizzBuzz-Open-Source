@@ -21,4 +21,8 @@ public class Solution {
         }
         return answer;
     }
+    
+    public static void Main(){
+        print(FizzBuzz(100));
+    }
 }
