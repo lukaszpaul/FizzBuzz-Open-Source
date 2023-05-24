@@ -2,7 +2,7 @@ extends Sprite2D
 
 #FizzBuzz in GDScript
 func _ready():
-	var maxNum = 120  # Get the maximum number from user input
+	var maxNum = 100  # Get the maximum number from user input
 	FizzBuzz(maxNum)
 
 func FizzBuzz(max_num: int):
